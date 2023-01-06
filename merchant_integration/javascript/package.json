@@ -16,7 +16,7 @@
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "eslint": "^5.1.0",
-    "jest": "^23.4.1"
+    "jest": "^29.3.1"
   },
   "dependencies": {
     "nock": "^9.4.2",
